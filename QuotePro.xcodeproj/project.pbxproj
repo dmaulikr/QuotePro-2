@@ -13,6 +13,7 @@
 		E27D516A1DF87EB30038BD37 /* QuotePro.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E27D51681DF87EB30038BD37 /* QuotePro.xcdatamodeld */; };
 		E27D516C1DF87EB30038BD37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E27D516B1DF87EB30038BD37 /* Assets.xcassets */; };
 		E27D516F1DF87EB30038BD37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E27D516D1DF87EB30038BD37 /* LaunchScreen.storyboard */; };
+		E2F743AE1DF9BD1800E292AD /* QuoteTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F743AD1DF9BD1800E292AD /* QuoteTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E27D516B1DF87EB30038BD37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E27D516E1DF87EB30038BD37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E27D51701DF87EB30038BD37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2F743AD1DF9BD1800E292AD /* QuoteTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuoteTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E27D51611DF87EB30038BD37 /* AppDelegate.swift */,
 				E27D51631DF87EB30038BD37 /* ViewController.swift */,
 				E27D51651DF87EB30038BD37 /* Main.storyboard */,
+				E2F743AD1DF9BD1800E292AD /* QuoteTableViewController.swift */,
 				E27D516B1DF87EB30038BD37 /* Assets.xcassets */,
 				E27D516D1DF87EB30038BD37 /* LaunchScreen.storyboard */,
 				E27D51701DF87EB30038BD37 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				E27D51641DF87EB30038BD37 /* ViewController.swift in Sources */,
 				E27D51621DF87EB30038BD37 /* AppDelegate.swift in Sources */,
+				E2F743AE1DF9BD1800E292AD /* QuoteTableViewController.swift in Sources */,
 				E27D516A1DF87EB30038BD37 /* QuotePro.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				E27D51751DF87EB30038BD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
